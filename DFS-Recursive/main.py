@@ -1,3 +1,6 @@
+#Author: Garen Ikezian
+#May 14, 2023
+
 #Idea for dfs recursive way: https://medium.com/@ojhasaurabh2099/traversing-a-grid-using-dfs-ac7a391f7af8 
 #Gambling project
 

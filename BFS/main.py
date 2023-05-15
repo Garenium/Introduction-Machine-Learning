@@ -1,3 +1,6 @@
+#Author: Garen Ikezian
+#Date: May 14, 2023
+
 #Dictionary source: https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/dictionary.json 
 from collections import deque
 import json
